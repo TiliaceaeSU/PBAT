@@ -1,6 +1,6 @@
 
 # Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation
-This is the implementation for our paper "Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation", ACM Multimedia 2023.
+This is the implementation for the paper "Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation", ACM Multimedia 2023.
 ![](PBAT.jpg)
 
 </div>
