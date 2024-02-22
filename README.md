@@ -21,7 +21,7 @@ python run.py fit --config src/configs/retail.yaml
 Due to file size limitations, we have not uploaded all of the data. You can download the datasets from [Google Drive](https://drive.google.com/file/d/1Ki8ibuTgkxnBITCe4gNLtrR0mG1vxevl/view?usp=sharing).
 
 ## Cite us
-
+If you find the code helpful, please cite us as:
 ```
 @inproceedings{DBLP:conf/mm/Su0LLLZ23,
   author       = {Jiajie Su and
