@@ -1,6 +1,6 @@
 
 # Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation
-This is the implementation of our work Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation in ACM Multimedia 2023.
+This is the implementation for our paper "Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation", ACM Multimedia 2023.
 ![](PBAT.jpg)
 
 </div>
@@ -18,7 +18,7 @@ python run.py fit --config src/configs/retail.yaml
 ```
 
 ## Dataset
-Due to 
+Due to file size limitations, we have not uploaded all of the data. You can download the datasets from [here](https://jmcauley.ucsd.edu/data/amazon/).
 
 ## Cite us
 
