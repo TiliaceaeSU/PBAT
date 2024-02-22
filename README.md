@@ -1,9 +1,5 @@
 
-<div align="center">    
-
 # Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation
-
-<div align="center">
 
 ![](PBAT.jpg)
 
