@@ -18,7 +18,7 @@ python run.py fit --config src/configs/retail.yaml
 ```
 
 ## Dataset
-Due to file size limitations, we have not uploaded all of the data. You can download the datasets from [here](https://jmcauley.ucsd.edu/data/amazon/).
+Due to file size limitations, we have not uploaded all of the data. You can download the datasets from [Google Drive](https://jmcauley.ucsd.edu/data/amazon/).
 
 ## Cite us
 
