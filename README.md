@@ -1,22 +1,24 @@
 
 # Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation
-
+This is the implementation of our work Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation in ACM Multimedia 2023.
 ![](PBAT.jpg)
 
 </div>
 
 </div>
-The code is tested on an NVIDIA 3090 Platform.
 
 ## Quick Start
 0. install pytorch and other dependencies
 ```bash
 pip install -r requirements.txt
 ```
-run the model with a `yaml` configuration file like following:
+1. run the model with a `yaml` configuration file like following:
 ```bash
 python run.py fit --config src/configs/retail.yaml
 ```
+
+## Dataset
+Due to 
 
 ## Cite us
 
