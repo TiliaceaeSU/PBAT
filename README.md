@@ -51,3 +51,5 @@ If you find the code helpful, please cite us as:
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
+## Acknowledgements
+Our code is based on the implementation of [MB-STR](https://github.com/yuanenming/mb-str).
